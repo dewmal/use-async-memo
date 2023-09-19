@@ -17,10 +17,10 @@ exports[`get async data 2`] = `
 <DocumentFragment>
   <div>
     <p>
-      data: 1
+      data: 
     </p>
     <p>
-      loading: false
+      loading: true
     </p>
   </div>
 </DocumentFragment>
